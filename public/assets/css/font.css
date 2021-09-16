@@ -1,0 +1,51 @@
+@font-face {
+    font-family: OpenSans_Bold_1;
+    src: url(/assets/fonts/OpenSans-Bold_1.ttf);
+}
+
+@font-face {
+    font-family: OpenSans-ExtraBold_2;
+    src: url(/assets/fonts/OpenSans-ExtraBold_2.ttf);
+}
+  
+@font-face {
+    font-family: opensans-light-1;
+    src: url(/assets/fonts/OpenSans-Light_1.ttf);
+}
+
+@font-face {
+    font-family: opensans-regular-1;
+    src: url(/assets/fonts/OpenSans-Regular_1.ttf);
+}
+
+@font-face {
+    font-family: opensans-semibold-1;
+    src: url(/assets/fonts/OpenSans-SemiBold_1.ttf);
+}
+@font-face {
+    font-family: opensans-semibold-italic-2;
+    src: url(/assets/fonts/OpenSans-SemiboldItalic_2.ttf);
+}
+  
+.opensans-bold-1 {
+    font-family: OpenSans_Bold_1;
+}
+.opensans-bold-2 {
+    font-family: OpenSans-ExtraBold_2;
+}
+.opensans-light-1 {
+    font-family: opensans-light-1;
+}
+.opensans-regular-1 {
+    font-family: opensans-regular-1;
+}
+.opensans-semibold-1 {
+    font-family: opensans-semibold-1;
+}
+.opensans-semibold-italic-2 {
+    font-family: opensans-semibold-italic-2;
+}
+
+body, body * {
+    font-family: opensans-semibold-1;
+}

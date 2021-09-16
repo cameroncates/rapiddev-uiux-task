@@ -1,0 +1,21 @@
+.bg-color {
+    background-color: #f9fdff !important;
+}
+.bg-green {
+    background-color: #8DC121 !important;
+}
+.text-navyblue {
+    color: #09325b !important;
+}
+.bg-navyblue {
+    background-color: #09325b !important;
+}
+.text-lightblue {
+    color: #00b4de !important;
+}
+.bg-opaque {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+.bg-white-opaque {
+    background-color: rgba(255, 255, 255, 0.5);
+}
